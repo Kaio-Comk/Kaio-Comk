@@ -96,6 +96,26 @@ I focus on building developer tools, autonomous agent systems, and resilient bac
 
 ---
 
+### 📦 Specialized Open-Source Libraries & Utilities
+
+Production-ready standalone modules and tools extracted from high-scale systems:
+
+| Category | Repository | Description | Highlights |
+|---|---|---|---|
+| **Media & Streaming** | 🎵 [**Intro-Skipper**](https://github.com/Kaio-Comk/Intro-Skipper) | Acoustic fingerprint TV intro & credits detector | Chromaprint • NumPy popcount • Bitwise XOR |
+| | 📝 [**Subtitle-Forge**](https://github.com/Kaio-Comk/Subtitle-Forge) | Broadcast-grade subtitle formatter (strict 42 chars / 2 lines) | WebVTT • SRT • Broadcast Standard |
+| | 👥 [**Watch-Together-Core**](https://github.com/Kaio-Comk/Watch-Together-Core) | Sub-second drift-corrected synchronized media playback rooms | WebSockets • Drift Extrapolation • Sync Engine |
+| | ⚡ [**Tiered-Storage-Cache**](https://github.com/Kaio-Comk/Tiered-Storage-Cache) | Two-tier (SSD+HDD) LRU cache with active stream backpressure | Python • LRU Cache • Backpressure Throttle |
+| | ⚡ [**Hermes-Telegram**](https://github.com/Kaio-Comk/Hermes-Telegram) | High-performance chunked parallel MTProto downloader | Telethon • Session Pool • FloodWait Backoff |
+| **AI & Commerce** | 🤖 [**AI-Support-Agent**](https://github.com/Kaio-Comk/AI-Support-Agent) | Local Ollama support with regex fast-path, VRAM unload & HITL | Python • Ollama • HITL Guardrails • AsyncIO |
+| | 💳 [**Payment-Resilience**](https://github.com/Kaio-Comk/Payment-Resilience) | Multi-gateway router with 3-state Circuit Breaker & failover | Python • Circuit Breaker • Zero-Dependency |
+| | 🌍 [**Geo-Pricing**](https://github.com/Kaio-Comk/Geo-Pricing) | Localized currency conversion and Purchasing Power Parity (PPP) | IP Geolocation • PPP Index • Multi-Currency |
+| **Search & DevOps** | 🔎 [**Pythia-Search**](https://github.com/Kaio-Comk/Pythia-Search) | Forgiving title search for media catalogs (accents, typos, years) | Python • In-Memory Trigram • Zero DB Lock |
+| | ⚙️ [**Hephaestus-Services**](https://github.com/Kaio-Comk/Hephaestus-Services) | Declarative Windows service orchestration with NSSM & PowerShell | PowerShell • NSSM • Online Log Rotation |
+| | 🔍 [**Argos-Cleaner**](https://github.com/Kaio-Comk/Argos-Cleaner) | Fast desktop duplicate cleaner + Google Takeout metadata fixer | Python • BLAKE3 • Perceptual dHash • GUI |
+
+---
+
 ### 🧰 Tech Stack & Ecosystem
 
 ```text
